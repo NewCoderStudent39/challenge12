@@ -1,1 +1,35 @@
+#Challenge 12 Employee Tracker
 
+    ## Description
+    This project demonstrates SQL database uses including adding to and querying results
+
+    ## Table of Contents
+        * [Installation](#installation)
+        * [Usage](#usage)
+        * [Credits](#credits)
+        * [Tests](#tests)
+        * [Features](#features)
+        * [License](#license)
+
+    ---
+    ## Installation
+    Installation instructions: console table ^0.10.0, dotenv ^16.0.3, inquirer ^8.2.4, and mysql2 ^2.3.3
+    ---
+    ## Usage
+    run npm i to install all dependencies. then run msyql -u <username here> -p. it will then prompt you for your password. then SOURCE db/schema.sql, Source db/seeds.sql then exit from mysql. at this point just npm start and use the inquierer prompts to navigate as needed. 
+    ---
+    ## Credits
+    Credit to outside third party sources used in development: 
+    David Fuka, Racheal Wildberger, and of course the all mighty stack overflow
+    ---
+    ## Tests
+    none 
+    ---
+    ## Features
+    manipulating a sql databse to show a mock employee registree and department registree from a mock company
+    ---
+    ## License
+    License used for this project: MIT License
+    ---
+
+    
